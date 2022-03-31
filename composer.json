@@ -1,0 +1,10 @@
+{
+    "name": "librecode/ofxhandler",
+    "type": "library",
+    "license": "AGPL",
+    "autoload": {
+        "psr-4": {
+            "LibreCode\\OfxHandler\\": "src/"
+        }
+    }
+}
