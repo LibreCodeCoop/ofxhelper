@@ -18,7 +18,7 @@ Identifique qual nome deseja para a saída, pode ser o mesmo nome do arquivo de 
 
 ```bash
 docker-compose up -d
-docker-comopse exec php bash
+docker-compose exec php bash
 php pagseguro.php numerodaconta inputfile.json > output.ofx
 ```
 Fim.
